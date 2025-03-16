@@ -1,0 +1,8 @@
+# Dependencies
+Flask
+Flask-SQLAlchemy
+pandas
+scikit-learn
+numpy
+requests
+gunicorn
