@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.pkl
+*.log
+
+# Node
+node_modules/
+build/
+.env.local
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# Pytest
+.pytest_cache/
+
+# Generated files
+ml/models/model_evaluation.png
